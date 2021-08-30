@@ -1,0 +1,8 @@
+# Requirements for code and notebook functionality
+
+numpy
+matplotlib
+
+ipywidgets                  # already installed by Binder?
+ipympl
+
