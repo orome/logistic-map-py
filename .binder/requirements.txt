@@ -1,9 +1,7 @@
 # Requrements for use with Binder (or local JupyterLab UI if what works on Binder is sufficient)
 # See https://discourse.jupyter.org/t/what-is-installed-by-default-with-binder/10217/5
 
-# USE locally (generally _requrments.txt is more appropriate): <<<
-# $ workon logisticmap
-# [logisticmap] pip install -U -r .binder/requirements.txt
+# USE in Binder (locally _jupyterlab/requirements.txt is more appropriate): <<<
 
 -r ../requirements.txt
 #-e ..                      # if using a setup.py
